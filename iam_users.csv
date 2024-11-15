@@ -1,0 +1,11 @@
+user_name,user_id,arn,created_date,password_last_used
+"('access-Arnav-peg-eng',)","('AIDA6M427IO6VZHV6PAGM',)","('arn:aws:iam::989778101181:user/access-Arnav-peg-eng',)","(datetime.datetime(2024, 10, 24, 5, 45, 14, tzinfo=tzutc()),)",N/A
+"('access-Carlos-uni-qas',)","('AIDA6M427IO65S6LL6GQN',)","('arn:aws:iam::989778101181:user/access-Carlos-uni-qas',)","(datetime.datetime(2024, 10, 24, 5, 50, 2, tzinfo=tzutc()),)",N/A
+"('access-Mary-peg-qas',)","('AIDA6M427IO623PK3O3UR',)","('arn:aws:iam::989778101181:user/access-Mary-peg-qas',)","(datetime.datetime(2024, 10, 24, 5, 46, 47, tzinfo=tzutc()),)",N/A
+"('access-Saanvi-uni-eng',)","('AIDA6M427IO6TSESBO4QI',)","('arn:aws:iam::989778101181:user/access-Saanvi-uni-eng',)","(datetime.datetime(2024, 10, 24, 5, 48, 35, tzinfo=tzutc()),)",N/A
+"('Apache',)","('AIDA6M427IO6SYX2XEWFC',)","('arn:aws:iam::989778101181:user/Apache',)","(datetime.datetime(2024, 10, 24, 5, 18, 35, tzinfo=tzutc()),)",2024-10-24 05:19:28+00:00
+"('Ataba',)","('AIDA6M427IO6UEJB5TM32',)","('arn:aws:iam::989778101181:user/Ataba',)","(datetime.datetime(2024, 1, 3, 0, 57, 31, tzinfo=tzutc()),)",2024-11-14 15:04:09+00:00
+"('bacha',)","('AIDA6M427IO6VQP4YADTZ',)","('arn:aws:iam::989778101181:user/bacha',)","(datetime.datetime(2024, 8, 4, 20, 3, 9, tzinfo=tzutc()),)",2024-08-20 21:52:09+00:00
+"('Faith',)","('AIDA6M427IO6TQPGSWKQP',)","('arn:aws:iam::989778101181:user/Faith',)","(datetime.datetime(2022, 11, 16, 19, 11, 14, tzinfo=tzutc()),)",2022-11-16 19:13:32+00:00
+"('pizzaro',)","('AIDA6M427IO6XPWUHZRSA',)","('arn:aws:iam::989778101181:user/pizzaro',)","(datetime.datetime(2024, 8, 30, 2, 27, 26, tzinfo=tzutc()),)",2024-08-30 15:36:37+00:00
+"('test-gpn',)","('AIDA6M427IO63MLMUBYHC',)","('arn:aws:iam::989778101181:user/test-gpn',)","(datetime.datetime(2024, 9, 30, 15, 19, 54, tzinfo=tzutc()),)",N/A
